@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/manav-react-app2/static/css/main.073c9b0a.css",
+    "main.js": "/manav-react-app2/static/js/main.f55398a4.js",
+    "static/js/787.ba557f0f.chunk.js": "/manav-react-app2/static/js/787.ba557f0f.chunk.js",
+    "index.html": "/manav-react-app2/index.html",
+    "main.073c9b0a.css.map": "/manav-react-app2/static/css/main.073c9b0a.css.map",
+    "main.f55398a4.js.map": "/manav-react-app2/static/js/main.f55398a4.js.map",
+    "787.ba557f0f.chunk.js.map": "/manav-react-app2/static/js/787.ba557f0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f55398a4.js"
+  ]
+}
